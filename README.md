@@ -49,6 +49,9 @@ https://tamannamalhotra24.github.io/Portfolio-Website/
 <img width="1707" height="980" alt="Screenshot 2026-06-28 115401" src="https://github.com/user-attachments/assets/fe218551-d51b-4f26-852a-ce7aab443909" />
 
 
+<img width="1675" height="1010" alt="Screenshot 2026-06-28 193243" src="https://github.com/user-attachments/assets/30be028e-a4d2-4218-a51f-4b855e810e26" />
+
+
 <img width="1674" height="1017" alt="image" src="https://github.com/user-attachments/assets/117eb6e9-270e-42cc-88ec-4cb120a5a75d" />
 
 ## Author
